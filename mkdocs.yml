@@ -1,0 +1,10 @@
+site_name: Tutorial usp-experiments
+
+nav:
+  - Início: index.md
+  - Tutoriais:
+      - Criar experimento: tutorial1.md
+      - Exportar resultados: tutorial2.md
+
+theme:
+  name: material
