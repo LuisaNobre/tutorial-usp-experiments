@@ -1,10 +1,18 @@
-site_name: Tutorial usp-experiments
+site_name: SGPF - Sistema de Gestão de Pesquisa Florestal
 
 nav:
   - Início: index.md
   - Tutoriais:
-      - Criar experimento: tutorial1.md
+      - Primeiros Passos: ApresentacaoArgow.md
+      - Criar experimento: cadastroExperimento.md
+      - Atualizar dados Experimento: AlteracaoCadastroExperimento.md
+      - Complementar Caracteristicas: caracExperimentos.md
       - Exportar resultados: tutorial2.md
 
 theme:
   name: material
+  logo: images/esalq-icon.jpg
+  favicon: images/esalq-icon.jpg
+
+extra_css:
+  - stylesheets/extra.css

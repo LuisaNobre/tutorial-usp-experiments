@@ -1,4 +1,4 @@
-# Tutorial USP Experiments
+# SGPF - Sistema de Gestão de Pesquisa Florestal
 
 Bem-vindo à documentação do sistema.
 
@@ -6,10 +6,10 @@ Este guia explica como usar o software passo a passo.
 
 ---
 
-## 🚀 Começar
+## 💡 Sobre este sistema
 
-- 👉 Vá para **Criar experimento** para começar
-- 👉 Depois veja **Exportar resultados**
+Este software foi desenvolvido para facilitar o input de dados no Sistema de Gestão de Pesquisa Florestal
+
 
 ---
 
@@ -17,10 +17,4 @@ Este guia explica como usar o software passo a passo.
 
 - Criar um experimento  
 - Exportar resultados  
-
----
-
-## 💡 Sobre este sistema
-
-Este software foi desenvolvido para facilitar a criação e análise de experimentos.
 
