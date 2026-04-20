@@ -4,10 +4,9 @@
 
 ## 📌 Passo a passo
 
-bla
+Em contrução
 
 ---
 
 ## 💡 Dica
 
-x
