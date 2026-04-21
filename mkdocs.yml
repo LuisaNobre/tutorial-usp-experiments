@@ -7,7 +7,7 @@ nav:
       - Criar experimento: cadastroExperimento.md
       - Atualizar dados Experimento: AlteracaoCadastroExperimento.md
       - Complementar Caracteristicas: caracExperimentos.md
-      - Exportar resultados: tutorial2.md
+      - Exportar resultados: exportTable.md
 
 theme:
   name: material

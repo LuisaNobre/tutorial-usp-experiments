@@ -28,7 +28,7 @@ Se esta for sua primeira vez no sistema, a ordem mais indicada e:
 2. [Criar experimento](cadastroExperimento.md)
 3. [Complementar Caracteristicas](caracExperimentos.md)
 4. [Atualizar dados de experimento](AlteracaoCadastroExperimento.md)
-5. [Exportar resultados](tutorial2.md)
+5. [Exportar resultados](exportTable.md)
 
 ## Tutoriais
 
@@ -57,7 +57,7 @@ Se esta for sua primeira vez no sistema, a ordem mais indicada e:
     <span class="tutorial-card__text">Orientacoes para revisar e alterar informacoes de experimentos ja cadastrados no sistema.</span>
   </a>
 
-  <a class="tutorial-card" href="tutorial2/">
+  <a class="tutorial-card" href="exportTable/">
     <span class="tutorial-card__kicker">Saida de dados</span>
     <strong class="tutorial-card__title">Exportar resultados</strong>
     <span class="tutorial-card__text">Procedimento para exportar dados e resultados do sistema para uso em analises e relatorios.</span>
