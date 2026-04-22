@@ -25,7 +25,7 @@ Aqui você encontra orientações para:
 Se esta for sua primeira vez no sistema, a ordem mais indicada é:
 
 1. [Primeiros Passos](ApresentacaoArgow.md)
-2. [Criar experimento](cadastroExperimento.md)
+2. [Cadastro de um novo experimento](cadastroExperimento.md)
 3. [Complementar características](caracExperimentos.md)
 4. [Atualizar dados do experimento](AlteracaoCadastroExperimento.md)
 5. [Exportar resultados](exportTable.md)
@@ -41,7 +41,7 @@ Se esta for sua primeira vez no sistema, a ordem mais indicada é:
 
   <a class="tutorial-card" href="cadastroExperimento/">
     <span class="tutorial-card__kicker">Cadastro</span>
-    <strong class="tutorial-card__title">Criar experimento</strong>
+    <strong class="tutorial-card__title">Cadastro de um novo experimento</strong>
     <span class="tutorial-card__text">Passo a passo para inserir um novo experimento e registrar atividades e recursos associados.</span>
   </a>
 
