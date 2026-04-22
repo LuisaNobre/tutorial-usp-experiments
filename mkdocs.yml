@@ -4,7 +4,7 @@ nav:
   - Início: index.md
   - Tutoriais:
       - Primeiros Passos: ApresentacaoArgow.md
-      - Criar experimento: cadastroExperimento.md
+      - Cadastrar um novo experimento: cadastroExperimento.md
       - Atualizar dados Experimento: AlteracaoCadastroExperimento.md
       - Complementar Caracteristicas: caracExperimentos.md
       - Exportar resultados: exportTable.md

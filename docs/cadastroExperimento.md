@@ -107,4 +107,7 @@ Esse procedimento sera mostrado em um tutorial especifico.
 
 ## Video do procedimento
 
-O video demonstrando todo o processo de cadastro sera adicionado ao final desta pagina.
+<video controls width="100%">
+  <source src="../videos/cadastroExperimento.mp4" type="video/mp4">
+  Seu navegador nao suporta a exibicao deste video.
+</video>
