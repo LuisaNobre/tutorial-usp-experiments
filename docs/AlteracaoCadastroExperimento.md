@@ -1,40 +1,40 @@
 # Alterar ou atualizar os dados de um experimento
 
-Nesta pagina mostramos como alterar informacoes ja cadastradas no sistema.
+Nesta página mostramos como alterar informações já cadastradas no sistema.
 
-Esse procedimento e util sempre que o usuario perceber que existe algum dado faltando, algum dado incorreto, ou quando for necessario atualizar informacoes como datas, status ou outros campos do experimento. Por isso, a atualizacao de dados tende a ser um procedimento frequente no uso do sistema.
+Esse procedimento é útil sempre que o usuário perceber que existe algum dado faltando, algum dado incorreto, ou quando for necessário atualizar informações como datas, status ou outros campos do experimento. Por isso, a atualização de dados tende a ser um procedimento frequente no uso do sistema.
 
 ## Passo a passo
 
 ### 1. Alterar dados na tabela principal
 
-Abra a tabela em que esta o dado que deseja alterar.
+Abra a tabela em que está o dado que deseja alterar.
 
-Em seguida, clique diretamente no campo que deseja corrigir ou complementar, faca a alteracao e, ao final, clique no botao de **check**, localizado acima da tabela, para salvar.
+Em seguida, clique diretamente no campo que deseja corrigir ou complementar, faça a alteração e, ao final, clique no botão de **check**, localizado acima da tabela, para salvar.
 
-Enquanto a alteracao nao for salva, toda a linha que esta sendo editada ficara destacada em **amarelo**. Depois de salvar, a linha volta a ficar em **verde**.
+Enquanto a alteração não for salva, toda a linha que está sendo editada ficará destacada em **amarelo**. Depois de salvar, a linha volta a ficar em **verde**.
 
-Tambem e importante lembrar que so e possivel alterar outra linha, ou editar dados em outra tabela, depois que a alteracao atual ja tiver sido salva.
+Também é importante lembrar que só é possível alterar outra linha, ou editar dados em outra tabela, depois que a alteração atual já tiver sido salva.
 
-![Exemplo de alteracao de dados na tabela principal do experimento](images/Atualiza1.png)
+![Exemplo de alteração de dados na tabela principal do experimento](images/Atualiza1.png)
 
 ### 2. Alterar dados nas tabelas inferiores
 
-Nas tabelas inferiores, o procedimento e exatamente o mesmo.
+Nas tabelas inferiores, o procedimento é exatamente o mesmo.
 
-Primeiro, clique no campo que deseja alterar e faca a edicao normalmente.
+Primeiro, clique no campo que deseja alterar e faça a edição normalmente.
 
-![Inicio da alteracao em uma das tabelas inferiores](images/Atualiza2.png)
+![Início da alteração em uma das tabelas inferiores](images/Atualiza2.png)
 
-Enquanto a linha estiver em edicao, ela permanecera destacada em **amarelo**. Para concluir a alteracao, clique no botao de **check** acima da tabela.
+Enquanto a linha estiver em edição, ela permanecerá destacada em **amarelo**. Para concluir a alteração, clique no botão de **check** acima da tabela.
 
 Depois de salvar, a linha volta a ficar em **verde**.
 
-![Salvamento da alteracao em uma das tabelas inferiores](images/Atualiza3.png)
+![Salvamento da alteração em uma das tabelas inferiores](images/Atualiza3.png)
 
-## Video
+## Vídeo
 
 <video controls width="100%">
   <source src="../videos/atualizarDados.mp4" type="video/mp4">
-  Seu navegador nao suporta a exibicao deste video.
+  Seu navegador não suporta a exibição deste vídeo.
 </video>

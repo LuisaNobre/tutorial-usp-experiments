@@ -1,12 +1,13 @@
-# xxxxxx
+# Primeiros Passos
 
+Esta página apresenta orientações iniciais para quem está começando a utilizar o Argow no contexto do SGPF.
 
+## Em construção
 
-## 📌 Passo a passo
+Este tutorial ainda está sendo elaborado.
 
-Em contrução
+Em breve, esta página contará com:
 
----
-
-## 💡 Dica
-
+- apresentação geral do sistema;
+- principais menus e áreas de navegação;
+- orientações básicas para iniciar o uso do Argow.

@@ -5,8 +5,8 @@ nav:
   - Tutoriais:
       - Primeiros Passos: ApresentacaoArgow.md
       - Cadastrar um novo experimento: cadastroExperimento.md
-      - Atualizar dados Experimento: AlteracaoCadastroExperimento.md
-      - Complementar Caracteristicas: caracExperimentos.md
+      - Atualizar dados do experimento: AlteracaoCadastroExperimento.md
+      - Complementar características: caracExperimentos.md
       - Exportar resultados: exportTable.md
 
 theme:
